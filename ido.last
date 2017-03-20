@@ -1,0 +1,82 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/j/.emacs.d/snippets/" . "rjsx-mode/")
+ ("/Users/j/.emacs.d/" . "snippets/")
+ ("/Users/j/" . ".emacs.d/")
+ ("/Users/j/Desktop/work/peppep/src/components/" . "CallElements/")
+ ("/Users/j/Desktop/work/peppep/ios/" . "PepperoniAppTemplate/")
+ ("/Users/j/Desktop/work/peppep/" . "src/")
+ ("/Users/j/Desktop/work/peppep/src/" . "services/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/j/Desktop/work/peppep/src/components/inputs/"
+ "/Users/j/Desktop/work/peppep/src/modules/createcall/"
+ "/Users/j/.emacs.d/snippets/rjsx-mode/"
+ "/Users/j/.emacs.d/snippets/"
+ "/Users/j/Desktop/work/peppep/src/services/"
+ "/Users/j/Desktop/work/peppep/src/modules/currentcall/"
+ "/Users/j/Desktop/work/peppep/src/components/CallElements/"
+ "/Users/j/Desktop/work/peppep/ios/PepperoniAppTemplate/"
+ "/Users/j/Desktop/work/peppep/src/modules/callflow/subviews/"
+ "/Users/j/Desktop/work/peppep/src/styles/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "styles.js"
+ "CreateCallView.js"
+ "component"
+ "*new snippet*"
+ "aws.js"
+ "CallState.js"
+ "CollapsibleItem.js"
+ "Info.plist"
+ "CallChecklist.js"
+ "commonStyles.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/j/Desktop/work/peppep/src/components/inputs/" (22731 65161 0 0) "styles.js" "StandardInput.js" "LoginInput.js" "Checkbox.js" "AutoComplete.js" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/src/modules/createcall/" (22731 61950 0 0) "styles.js" "CreateCallViewContainer.js" "CreateCallView.js" "../" "./")
+
+ ("/Users/j/.emacs.d/snippets/rjsx-mode/" (22731 4890 0 0) "component" "../" "./")
+
+ ("/Users/j/.emacs.d/snippets/" (22731 5008 0 0) "rjsx-mode/" "../" "./")
+
+ ("/Users/j/.emacs.d/" (22731 3851 0 0) "themes/" "snippets/" "projectile-bookmarks.eld" "init.el" "ido.last" "flow-for-emacs/" "elpa/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/j/" (22731 2980 0 0) "tooling/" "scratch/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Applications/" ".yarnrc" ".Trash/" ".subversion/" ".stCommitMsg" ".ssh/" ".npm/" ".nodenv/" ".node_repl_history" ".netrc" ".local/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".git-completion.bash" ".fonts/" ".emacs.d/" ".DS_Store" ".cups/" ".config/" ".cocoapods/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile" ".bash_history" ".babel.json" ".atom/" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/" (22731 2971 0 0) "test/" "support/" "src/" "README.md" "pepperoni-app-kit.git/" "package.json" "node_modules/" "LICENSE" "ios/" "index.ios.js" "index.android.js" "images/" "fonts/" "env.js" "docs/" "bitrise/" "android/" ".watchmanconfig" ".travis.yml" ".node-version" ".istanbul.yml" ".gitignore" ".git/" ".flowconfig" ".eslintrc" ".DS_Store" ".buckconfig" ".babelrc" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/src/services/" (22730 62707 0 0) "timeHelpers.js" "serviceType.js" "messageType.js" "firebase/" "aws.js" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/src/modules/currentcall/" (22728 29277 0 0) "styles.js" "CallViewContainer.js" "CallView.js" "CallState.js" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/src/components/CallElements/" (22717 54487 0 0) "styles.js" "FullItem.js" "CollapsibleItem.js" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/src/components/" (22717 38478 0 0) "UnreadMessageBadge/" "TabBarButton/" "TabBar/" "Message.js" "Message/" "Maps/" "inputs/" "imported/" "Hamburger/" "DeveloperMenu/" "Dashboard/" "CallviewSidebar/" "CallElements/" "Buttons/" "__specs__/" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/src/modules/" (22713 55261 0 0) "timesheet/" "session/" "navigation/" "messages/" "messagecenter/" "login/" "dashboard/" "currentcall/" "createcall/" "counter/" "colors/" "callflow/" "AppViewContainer.js" "AppView.js" "AppRouter.js" "apponboarding/" "__specs__/" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/src/modules/callflow/" (22722 54933 0 0) "subviews/" "styles.js" "CallFlowViewContainer.js" "CallFlowView.js" "CallFlowState.js" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/src/modules/callflow/subviews/" (22720 30451 0 0) "Observations.js" "CallOverview.js" "CallChecklist.js" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/ios/PepperoniAppTemplate/" (22713 52206 0 0) "main.m" "Info.plist" "Images.xcassets/" "Base.lproj/" "AppDelegate.m" "AppDelegate.h" "abc_login.png" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/ios/" (22713 53754 0 0) "Pods/" "Podfile.lock" "Podfile" "PepperoniAppTemplateTests/" "PepperoniAppTemplate.xcworkspace/" "PepperoniAppTemplate.xcodeproj/" "PepperoniAppTemplate/" "env.example.js" "build/" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/src/styles/" (22713 52206 0 0) "commonStyles.js" "../" "./")
+
+ ("/Users/j/Desktop/work/peppep/src/" (22713 52206 0 0) "utils/" "styles/" "services/" "routes/" "redux/" "modules/" "components/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
