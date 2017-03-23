@@ -2,6 +2,11 @@
 # name : react_component
 # key : comp
 # --
+import React from 'react';
+import {
+  View,
+} from 'react-native';
+
 const ${1:enumerate} = React.createClass({
   render() {
     return (
