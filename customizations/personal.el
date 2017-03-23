@@ -18,6 +18,9 @@
 (setq mac-command-modifier 'meta)
 (setq mac-option-modifier nil)
 
-;; set these to something better though
-; (global-set-key [triple-wheel-left] 'previous-buffer)
-; (global-set-key [triple-wheel-right] 'next-buffer)
+;; insert javascript object with correct indentation
+(fset 'open-object
+      "{\C-j\C-n;\C-i\C-p\C-i")
+
+(global-set-key (kbd "M-{") 'open-object)
+
